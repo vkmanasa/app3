@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>activity_admin,admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-05 10:18:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0857e2a31c7a7110f877900c1d96e041</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App3" source="x_snc_app3">ca37e6631c7a7110f877900c1d96e0fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App3">ca37e6631c7a7110f877900c1d96e0fb</sys_scope>
+        <sys_update_name>sys_app_application_0857e2a31c7a7110f877900c1d96e041</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-05 10:18:56</sys_updated_on>
+        <title>App3</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
